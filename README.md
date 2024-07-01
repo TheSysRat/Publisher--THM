@@ -12,5 +12,5 @@ cd Publisher--THM
 python3 expolit.py -u <url>/spip -c <command> -v
 
 Example:
-python3 http://publisher.thm/spip -c 'cat /etc/passwd' -v
+python3 exploit.py -u http://publisher.thm/spip -c 'cat /etc/passwd' -v
 ```
