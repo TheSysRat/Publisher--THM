@@ -1,10 +1,10 @@
-# About Publisher--THM
+# About Publisher--THM >>
 Modify exploit to Publisher BOX on TryHackMe
 
 Origianl exploit 
 https://github.com/nuts7/CVE-2023-27372
 
-# Install >
+# Install and usage >>
 
 ```
 git clone https://github.com/TheSysRat/Publisher--THM
